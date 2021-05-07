@@ -1,0 +1,2 @@
+# Jigsaw_Multilingual_-Toxic_Comment_Classification_Kaggle_Hackathon
+Codes used in Kaggle Jigsaw Multilingual Toxic Coment Classification Hackathon

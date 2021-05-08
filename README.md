@@ -1,7 +1,7 @@
 # Jigsaw_Multilingual_-Toxic_Comment_Classification_Kaggle_Hackathon
-This is a repository of codes used by me in Kaggle Competition "Jigsaw Multilingual Toxic Comment Classification"
+This is a repository of codes used by me in Kaggle Competition "[Jigsaw Multilingual Toxic Comment Classification]"(https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)
 
-Competition Overview :
+# Competition Overview :
 It only takes one toxic comment to sour an online discussion. The Conversation AI team, a research initiative founded by Jigsaw and Google, builds technology to protect voices in conversation. A main area of focus is machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion. If these toxic contributions can be identified, we could have a safer, more collaborative internet.
 
 In the previous 2018 Toxic Comment Classification Challenge, Kagglers built multi-headed models to recognize toxicity and several subtypes of toxicity. In 2019, in the Unintended Bias in Toxicity Classification Challenge, you worked to build toxicity models that operate fairly across a diverse range of conversations. This year, we're taking advantage of Kaggle's new TPU support and challenging you to build multilingual models with English-only training data.
@@ -12,5 +12,6 @@ As our computing resources and modeling capabilities grow, so does our potential
 
 Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.
 
-My Performance : 
-Private Rank : 84/1621
+
+# My Performance : 
+# Private/Final Rank : 84/1621 (Top 6%)

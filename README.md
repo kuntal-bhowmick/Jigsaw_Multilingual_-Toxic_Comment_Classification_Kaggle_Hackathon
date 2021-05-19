@@ -14,7 +14,9 @@ Disclaimer: The dataset for this competition contains text that may be considere
 
 # My Solution Description :
 I have mainly used different variants of BERT and Roberta in this competition. In BERT, I have used DistilBERT,Bert Multilingual,Bert base and Bert large where each of them had around 5 different models based on different Learning Rate,Input text length,Pseudo Labelling etc.
+
 Preprocessing : I have done minimal preprocessing in BERT and Roberta models.
+
 Loss function : I have used Focal Loss as we had imbalanced dataset in this competition.
 Callbacks : I have used 
 Ensemble : I have used 2 layer ensembling here. At first layer, I have created weighted average ensembling separately for Bert Base,Bert Large,Distillbert,Bert ML and Roberta.
